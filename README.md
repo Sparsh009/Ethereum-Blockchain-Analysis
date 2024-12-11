@@ -39,7 +39,8 @@ The dataset comprises two main CSV files:
 - **Objective**: Analyze block production and unique senders for September 2015.
 - **Solution**: Filtered and aggregated data to produce histograms of daily activities.
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/0e66fafd-7c81-42a5-bb43-f21e2b869585" />
-![image](https://github.com/user-attachments/assets/cc5d632a-3241-4c68-854c-046c94eca49f)
+  <img width="307" alt="image" src="https://github.com/user-attachments/assets/cc5d632a-3241-4c68-854c-046c94eca49f">
+
 
 
 ### Task 2.6: Analyze October 2015 Data
