@@ -39,14 +39,14 @@ The dataset comprises two main CSV files:
 - **Objective**: Analyze block production and unique senders for September 2015.
 - **Solution**: Filtered and aggregated data to produce histograms of daily activities.
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/0e66fafd-7c81-42a5-bb43-f21e2b869585" />
-![image](https://github.com/user-attachments/assets/b4c7a03b-3b79-4ae1-a163-b46442ea6c81)
+![image](https://github.com/user-attachments/assets/cc5d632a-3241-4c68-854c-046c94eca49f)
+
 
 ### Task 2.6: Analyze October 2015 Data
 - **Objective**: Calculate total transaction fees for October 2015.
 - **Solution**: Used gas and gas_price fields to compute fees and visualized results with histograms.
 <img width="346" alt="image" src="https://github.com/user-attachments/assets/eaf56519-4a55-475e-b2f3-08964c627863" />
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/b14713c3-4c15-4009-ba4f-3a016c6926d0" />
-![image](https://github.com/user-attachments/assets/21f966d1-a9fd-4d35-94b9-016060ad4af6)
 
 
 ## Tools and Technologies
