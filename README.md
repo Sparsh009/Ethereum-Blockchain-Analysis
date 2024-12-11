@@ -48,6 +48,8 @@ The dataset comprises two main CSV files:
 - **Solution**: Used gas and gas_price fields to compute fees and visualized results with histograms.
 <img width="346" alt="image" src="https://github.com/user-attachments/assets/eaf56519-4a55-475e-b2f3-08964c627863" />
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/b14713c3-4c15-4009-ba4f-3a016c6926d0" />
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/14bbaa68-ab5a-4b69-a7d0-8e04c51129e8" />
+
 
 
 ## Tools and Technologies
